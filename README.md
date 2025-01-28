@@ -63,6 +63,7 @@ Set up MySQL and create the necessary tables for transaction data.
 
 # 4.Run the application:    
 python app.py
+
 Contributing
 Feel free to fork this repository and contribute! If you have suggestions or improvements, please open an issue or submit a pull request.
 
