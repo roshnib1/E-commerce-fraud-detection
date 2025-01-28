@@ -54,22 +54,21 @@ Keyboard: Standard Windows Keyboard
 Mouse: Two-Button Mouse
 Monitor: Any
 How to Run
-# Clone the repository:
+# 1.Clone the repository:
 git clone https://github.com/<your-username>/ecommerce-fraud-detection.git
-
-Install the required libraries:
+# 2.Install the required libraries:
 pip install -r requirements.txt
-Set up the database:
+# 3.Set up the database:
 Set up MySQL and create the necessary tables for transaction data.
 
-Run the application:    
+# 4.Run the application:    
 python app.py
 Contributing
 Feel free to fork this repository and contribute! If you have suggestions or improvements, please open an issue or submit a pull request.
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+# Acknowledgements
 Thanks to the contributors who helped improve the system.
 Inspired by the need for robust fraud detection in e-commerce.
